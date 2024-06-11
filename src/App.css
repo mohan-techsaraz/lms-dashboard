@@ -39,6 +39,7 @@
 
 body{
   background-color: rgb(12, 2, 31);
+  
 }
 p{
   color: #fff;
@@ -49,6 +50,7 @@ h3, h1{
 }
 
 .group{
-  background-color: #61fb8e;
+  /* background-color: #61fb8e; */
+  background-color: #2d2d2d;
 }
 
